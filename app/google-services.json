@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615397659962",
+    "firebase_url": "https://allthingsgaucho-2d51f.firebaseio.com",
+    "project_id": "allthingsgaucho-2d51f",
+    "storage_bucket": "allthingsgaucho-2d51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615397659962:android:9a494c324131496eeb6c03",
+        "android_client_info": {
+          "package_name": "com.example.allthingsgaucho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615397659962-k8ss8vknfsl2lnj7e6g96l33skn5q7kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allthingsgaucho",
+            "certificate_hash": "f20730308e1548e28b9be283adab8f57c25a3f3b"
+          }
+        },
+        {
+          "client_id": "615397659962-4e46l0q4a5pq40p3qcp69sg8qqrma315.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNvEsJugWffAh5-8kBpfzvSO6B-kTzvEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615397659962-4e46l0q4a5pq40p3qcp69sg8qqrma315.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

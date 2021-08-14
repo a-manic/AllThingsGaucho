@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AllThingsGaucho</string>
+    <string name="select_pickup_location">Select Pickup Location</string>
+    <string name="select_dropoff_location">Select Dropoff Location</string>
+
+    <string-array name="pickname">
+        <item>Please select a pickup location</item>
+        <item>Isla Vista</item>
+        <item>Goleta</item>
+        <item>Santa Barbara</item>
+        <item>LA</item>
+        <item>Orange County</item>
+        <item>San Diego</item>
+        <item>San Jose</item>
+        <item>Solvang</item>
+    </string-array>
+
+    <string-array name="dropname">
+        <item>Please select a dropoff location</item>
+        <item>Isla Vista</item>
+        <item>Goleta</item>
+        <item>Santa Barbara</item>
+        <item>LA</item>
+        <item>Orange County</item>
+        <item>San Diego</item>
+        <item>San Jose</item>
+        <item>Solvang</item>
+    </string-array>
+</resources>
